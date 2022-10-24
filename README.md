@@ -1,5 +1,5 @@
 ## INSTALLATION (dans la ligne de commande après avoir créer un dossier)
-$ git clone https://github.com/Omersi33/my_project.git
+$ git clone https://github.com/Omersi33/WIK-DPS-TP01.git
 
 ## LANCEMENT DU PROJET (dans la ligne de commande)
 $ npm run start
